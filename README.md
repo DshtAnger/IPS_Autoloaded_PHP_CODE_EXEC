@@ -1,4 +1,5 @@
 # IPS Community Suite 自动加载的PHP代码注入漏洞（CVE-2016-6174）
+
 ## 一、漏洞概述
 
 ### 1.漏洞信息
@@ -188,3 +189,4 @@ if ( mb_substr( $class, 0, 14 ) === 'IPS\cms\Fields' and is_numeric( mb_substr( 
 * http://windows.php.net/downloads/releases/archives/
 * http://karmainsecurity.com/KIS-2016-11
 * http://cve.mitre.org/cgi-bin/cvename.cgi?name=2016-6174
+（该分析来自!(https://github.com/Lucifaer)
