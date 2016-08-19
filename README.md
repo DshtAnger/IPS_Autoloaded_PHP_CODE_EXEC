@@ -1,7 +1,3 @@
-# IPS_Autoloaded_PHP_CODE_EXEC
-## SSV-92096,CVE-2016-6174
-    pocsuite -r ips_community_suite_PoC.py -u "http://localhost/ips" --verify
-***
 # IPS Community Suite 自动加载的PHP代码注入漏洞（CVE-2016-6174）
 ## 一、漏洞概述
 
