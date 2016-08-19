@@ -188,5 +188,6 @@ if ( mb_substr( $class, 0, 14 ) === 'IPS\cms\Fields' and is_numeric( mb_substr( 
 * https://invisionpower.com/
 * http://windows.php.net/downloads/releases/archives/
 * http://karmainsecurity.com/KIS-2016-11
-* http://cve.mitre.org/cgi-bin/cvename.cgi?name=2016-6174
-（该分析来自[Lucifaer](https://github.com/Lucifaer))
+* http://cve.mitre.org/cgi-bin/cvename.cgi?name=2016-6174   
+
+（该分析来自[Lucifaer](https://github.com/Lucifaer)）
